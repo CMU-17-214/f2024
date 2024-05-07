@@ -360,7 +360,7 @@ The schedule below reflects our current plans, but will be updated throughout th
 </div>
 
 
-## Course Staff
+## Staff
 
 Instructors: [Jeremy Lacomis](https://jeremylacomis.com/) [jlacomis] and [Claire
 Le Goues](https://clairelegoues.com) [clegoues]
@@ -377,9 +377,9 @@ TAs:
 <!-- Yikang Cheng [yikangc], -->
 <!-- Zhewei Tong [zheweit] -->
 
-## **Course Syllabus and Policies**
+## Course Syllabus and Policies
 
-### **Prerequisites**
+### Prerequisites
 
 - 15-122 or 15-211, or equivalent with instructor's permission
 - The equivalent of 2 semester-long programming classes
@@ -390,14 +390,9 @@ TAs:
 - 15-151 or 21-127, or equivalent with instructor's permission
   - Sound foundation of mathematical concepts; ability to reason formally
 
-
-
-
 ------
 
-
-
-### **Grading** **and Deadlines**
+### Grading and Deadlines
 
 Evaluation will be based on the following approximate percentages:
 
@@ -434,7 +429,7 @@ Each student can *resubmit* any *one* assignment milestone and it will be regrad
 
 
 
-### **Attendance and remote participation**
+### Attendance and remote participation
 
 This course, including recitations, is marked by the registrar as IPE ("delivered in-person, students are expected to be in the classroom during the course's scheduled meeting time"). We do not plan to make accommodations for remote attendance.
 
@@ -448,7 +443,7 @@ In case of illness, quarantine, or other exceptional circumstances, we may be ab
 
 
 
-### **Textbooks**
+### Textbooks
 
 This course will occasionally assign **mandatory readings**, from the two text books below. The CMU library has both physical and electronic copies of these books. You can access *all* of these books for free electronically through the CMU library.
 
@@ -471,14 +466,9 @@ In addition, we list **several optional readings** that may be helpful with spec
   - Douglas Crockford. [JavaScript: The good parts](https://bookshop.org/books/javascript-the-good-parts-the-good-parts/9780596517748). O'Reilly, 2008. [[CMU library](https://cmu.primo.exlibrisgroup.com/permalink/01CMU_INST/6lpsnm/alma991019576570404436)]
   - Boris Cherny. [Programming Typescript: Making Your JavaScript Applications Scale](https://bookshop.org/books/programming-typescript-making-your-javascript-applications-scale/9781492037651). O'Reilly, 2019. [[CMU library](https://cmu.primo.exlibrisgroup.com/permalink/01CMU_INST/6lpsnm/alma991019642791104436)]
 
-
-
-
 ------
 
-
-
-### **Time management**
+### Time management
 
 This is a 12-unit course, and it is our intention to manage it so that you spend close to 12 hours a week on the course, on average. In general, 4 hours/week will be spent in class, 1 hour on labs, and 7 hours on assignments. Please feel free to give the course staff feedback on how much time the course is taking for you.
 
@@ -488,7 +478,7 @@ This is a 12-unit course, and it is our intention to manage it so that you spend
 
 
 
-### **Research to Improve the Course:**
+### Research to Improve the Course:
 
 For this class, we are conducting research on teaching and learning. This research will involve some student work. You will not be asked to do anything above and beyond the normal learning activities and assignments that are part of this course. You are free not to participate in this research, and your participation will have no influence on your grade for this course or your academic career at CMU. If you do not wish to participate, please send an email to Chad Hershock (hershock@andrew.cmu.edu). Participants will not receive any compensation. The data collected as part of this research will include student grades. All analyses of data from participants’ coursework will be conducted after the course is over and final grades are submitted. The Eberly Center may provide support on this research project regarding data analysis and interpretation. The Eberly Center for Teaching Excellence & Educational Innovation is located on the CMU-Pittsburgh Campus and its mission is to support the professional development of all CMU instructors regarding teaching and learning. To minimize the risk of breach of confidentiality, the Eberly Center will never have access to data from this course containing your personal identifiers. All data will be analyzed in de-identified form and presented in the aggregate, without any personal identifiers. If you have questions pertaining to your rights as a research participant, or to report concerns to this study, please contact Chad Hershock (hershock@andrew.cmu.edu).
 
@@ -498,7 +488,7 @@ For this class, we are conducting research on teaching and learning. This resear
 
 
 
-### **Collaboration policy and academic integrity**
+### Collaboration policy and academic integrity
 
 The usual policies apply, especially the University Policy on Academic Integrity. We expect that your work on assignments, projects, and exams will be your own work. The key guiding principle of academic honesty in this course is: *"You may not copy any part of a solution to a problem that was written by another student (in this or prior iterations of the class), or was developed together with another student, or was delegated to another person. You may not look at another student's solution, even if you have completed your own, nor may you knowingly give your solution to another student or leave your solution where another student can see it."* Note that this implies that you cannot publicly post your solutions on GitHub (e.g., as part of a portfolio during job applications). We also expect and respect honesty when communicating with the course staff.
 
@@ -537,7 +527,7 @@ If you have any question about how this policy applies in a particular situation
 
 
 
-### **Audit Policy**
+### Audit Policy
 
 If you desire to audit the course, our general requirement is that you complete homeworks to achieve at least 50% of the total homework grade. Solutions do not need to be fully complete, but we encourage you to attempt to do so. We additionally encourage you to attend lectures and complete labs, but you are not required to do so. You should not attend our midterm exams or final exam.
 
@@ -547,7 +537,7 @@ If you desire to audit the course, our general requirement is that you complete 
 
 
 
-### **Your health matters**
+### Your health matters
 
 When we say "your health matters" we mean exactly that: Your health matters. We don't intend to imply that other peoples' health does not matter, or that your health matters more or less than theirs. We know that CMU can be a stressful, risky environment, and *your* health is the health that is relevant in this conversation. Worries about Covid-19 and possible remote classes do not help.
 
@@ -569,7 +559,7 @@ If you are worried about affording food or feeling insecure about food, there ar
 
 
 
-### **Informal feedback on this course**
+### Informal feedback on this course
 
 We are planning many changes to this course in this semester and not everything will work out smoothly the first time. We’d like you to provide ongoing feedback on your experience in the course, so that we can take into account your experience and adapt our practices to make the course work for you.
 
