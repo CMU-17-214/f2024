@@ -63,7 +63,7 @@ The schedule below reflects our current plans, but will be updated throughout th
     </tr>
   </tbody>
   <tbod>
-    <td>Mon, Sep 2>
+    <td>Mon, Sep 2</td>
     <tr class="break">No Class, Labor Day</tr>
     <td></td>
     <tr class="">
