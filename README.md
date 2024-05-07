@@ -71,7 +71,9 @@ The schedule below reflects our current plans, but will be updated throughout th
     <tr class="">
       <td>Wed, Sep 4</td>
       <td>OO Analysis and UML</td>
-      <!-- <td>Required: <a href="https://cmu.primo.exlibrisgroup.com/permalink/01CMU_INST/1feg4j8/alma991019578256404436">Effective Java, Items 15 and 16</td> -->
+      <!-- <td>Required: <a -->
+      <!-- href="https://cmu.primo.exlibrisgroup.com/permalink/01CMU_INST/1feg4j8/alma991019578256404436">Effective Java, Items 15 and 16</td> -->
+      <td />
     </tr>
     <tr>
       <td>Fri, Sep 6</td>
