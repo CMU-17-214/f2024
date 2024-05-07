@@ -62,10 +62,12 @@ The schedule below reflects our current plans, but will be updated throughout th
       <td></td>
     </tr>
   </tbody>
-  <tbod>
-    <td>Mon, Sep 2</td>
-    <tr class="break">No Class, Labor Day</tr>
-    <td></td>
+  <tbody>
+    <tr>
+        <td>Mon, Sep 2</td>
+        <td class="break">No Class, Labor Day</td>
+        <td></td>
+    </tr>
     <tr class="">
       <td>Wed, Sep 4</td>
       <td>OO Analysis and UML</td>
