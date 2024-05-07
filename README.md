@@ -365,7 +365,8 @@ The schedule below reflects our current plans, but will be updated throughout th
 
 ## Course Staff
 
-Instructors: [Jeremy Lacomis](https://jeremylacomis.com/) [jlacomis] and [Claire Le Goues](https://clairelegoues.com)
+Instructors: [Jeremy Lacomis](https://jeremylacomis.com/) [jlacomis] and [Claire
+Le Goues](https://clairelegoues.com) [clegoues]
 
 TAs:
 <!--  Aditya Kumar Mittal [akmittal], -->
