@@ -16,10 +16,10 @@ See a more detailed list of [learning goals](https://cmu-17-214.github.io/s2024/
 
 ### Coordinates
 
-M/W 11:00 - 12:20 p.m. in POS A35
+M/W 11:00 - 12:20 p.m. in [POS](https://www.cmu.edu/admission/sites/default/files/inline-files/Carnegie%20Mellon%20University%20Campus%20Map.pdf) A35
 
-**[Jeremy Lacomis](https://jeremylacomis.com/)**, [TCS](https://www.covidcast.cmu.edu/visit/july-2021-campus-map) 362, office hours: see calendar
-**[Claire Le Goues](https://clairelegoues.com/)**, [TCS](https://www.covidcast.cmu.edu/visit/july-2021-campus-map) 363, office hours: see calendar
+**[Jeremy Lacomis](https://jeremylacomis.com/)**, [TCS](https://www.cmu.edu/admission/sites/default/files/inline-files/Carnegie%20Mellon%20University%20Campus%20Map.pdf) 362, office hours: see calendar
+**[Claire Le Goues](https://clairelegoues.com/)**, [TCS](https://www.cmu.edu/admission/sites/default/files/inline-files/Carnegie%20Mellon%20University%20Campus%20Map.pdf) 363, office hours: see calendar
 
 Our TAs also provide an additional 15h of office hours each week; see details in the calendar.
 
