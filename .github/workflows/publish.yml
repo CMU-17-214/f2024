@@ -20,7 +20,7 @@ jobs:
       run: |
         cp .assets/template.html _site/index.html
         cp .assets/style.css _site/
-        npx marked@4.3.0 --gfm -i README.md >> _site/index.html
+        npx marked@12.0.2 --gfm -i README.md >> _site/index.html
         cat .assets/template_end.html >> _site/index.html
         mkdir _site/assignments
         cp learninggoals.html _site/
