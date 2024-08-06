@@ -368,16 +368,15 @@ Instructors: [Jeremy Lacomis](https://jeremylacomis.com/) [jlacomis] and [Claire
 Le Goues](https://clairelegoues.com) [clegoues]
 
 TAs:
-<!--  Aditya Kumar Mittal [akmittal], -->
-<!-- Eileen Weizhen Xiao [ewxiao], -->
-<!-- Jeffrey Hanyun Li [jhl4], -->
-<!-- Jiaye Liu [jiayeliu], -->
-<!-- Terry (Jielin) Li [jielinl], -->
-<!-- Rajath Mahendrappa Kotyal [rajathmCMU], -->
-<!-- Sitong Shang [sitongs], -->
-<!-- Wenjun Zhou [wejunz2], -->
-<!-- Yikang Cheng [yikangc], -->
-<!-- Zhewei Tong [zheweit] -->
+Connie (Wenjun) Zhou [wejunz2],
+Terry (Jielin) Li [jielinl],
+Jeffrey Hanyun Li [jhl4],
+Yikang Cheng [yikangc],
+Eileen Gu [yingfan2],
+John Crawshaw [vcrawsha],
+Victor Crawshaw [jccrash],
+Clement Ou [clemento],
+Yibo Ma [yibom]
 
 ## Course Syllabus and Policies
 
@@ -424,7 +423,6 @@ Each student can *resubmit* any *one* assignment milestone and it will be regrad
 <!-- - For a single homework deadline during the semester, you can redo and resubmit your work after it was graded. It will be regraded as if it was the first submission and you can regain all lost points. Each student can only do this once. We accept resubmissions until April 26th, 11:59pm. (While we do not recommend it, you can use this as arbitrary late days for a single deadline, receiving 0 points for missing the initial deadline and then resubmitting later). -->
 
 <!-- Any work submitted beyond the flexibility provided by these mechanisms will receive feedback but no credit unless explicit accommodations were provided. -->
-
 
 
 ------
