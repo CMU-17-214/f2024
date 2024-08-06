@@ -19,13 +19,14 @@ See a more detailed list of [learning goals](https://cmu-17-214.github.io/s2024/
 M/W 11:00 - 12:20 p.m. in [POS](https://www.cmu.edu/admission/sites/default/files/inline-files/Carnegie%20Mellon%20University%20Campus%20Map.pdf) A35
 
 **[Jeremy Lacomis](https://jeremylacomis.com/)**, [TCS](https://www.cmu.edu/admission/sites/default/files/inline-files/Carnegie%20Mellon%20University%20Campus%20Map.pdf) 362, office hours: see calendar
+
 **[Claire Le Goues](https://clairelegoues.com/)**, [TCS](https://www.cmu.edu/admission/sites/default/files/inline-files/Carnegie%20Mellon%20University%20Campus%20Map.pdf) 363, office hours: see calendar
 
 Our TAs also provide an additional 15h of office hours each week; see details in the calendar.
 
 The instructors have an open door policy: If the instructors' office doors are open and no-one else is meeting with us, we are happy to answer any course-related questions. Feel free to email us for appointments; we are also available over Zoom.
 
-[course-calendar](## Course Calendar)
+##[course-calendar](Course Calendar)
 
 <iframe src="https://calendar.google.com/calendar/embed?src=c_2a6e790c6ae7fd610c0f21536ff9b4a7447f8d7e24cd18343d59f10af3297ed3%40group.calendar.google.com&ctz=America%2FNew_York" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 
