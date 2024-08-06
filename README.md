@@ -368,7 +368,7 @@ Instructors: [Jeremy Lacomis](https://jeremylacomis.com/) [jlacomis] and [Claire
 Le Goues](https://clairelegoues.com) [clegoues]
 
 TAs:
-Connie (Wenjun) Zhou [wejunz2],
+Connie (Wenjun) Zhou [wenjunz2],
 
 Terry (Jielin) Li [jielinl],
 
@@ -380,7 +380,7 @@ Eileen Gu [yingfan2],
 
 John Crawshaw [vcrawsha],
 
-Victor Crawshaw [jccrash],
+Victor Crawshaw [jccrawsh],
 
 Clement Ou [clemento],
 
