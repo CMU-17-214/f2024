@@ -369,13 +369,21 @@ Le Goues](https://clairelegoues.com) [clegoues]
 
 TAs:
 Connie (Wenjun) Zhou [wejunz2],
+
 Terry (Jielin) Li [jielinl],
+
 Jeffrey Hanyun Li [jhl4],
+
 Yikang Cheng [yikangc],
+
 Eileen Gu [yingfan2],
+
 John Crawshaw [vcrawsha],
+
 Victor Crawshaw [jccrash],
+
 Clement Ou [clemento],
+
 Yibo Ma [yibom]
 
 ## Course Syllabus and Policies
