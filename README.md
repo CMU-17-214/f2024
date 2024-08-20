@@ -360,7 +360,7 @@ The schedule below reflects our current plans, but will be updated throughout th
 </table>
 </div>
 
-## Staff
+## <a name="staff"></a>Staff
 
 Instructors: [Jeremy Lacomis](https://jeremylacomis.com/) [jlacomis] and [Claire
 Le Goues](https://clairelegoues.com) [clegoues]
