@@ -384,7 +384,7 @@ Clement Ou [clemento],
 
 Yibo Ma [yibom]
 
-## <a href="course-syllabus-and-policies"></a>Course Syllabus and Policies
+## <a href="syllabus"></a>Course Syllabus and Policies
 
 ### Prerequisites
 
