@@ -25,7 +25,7 @@ Our TAs also provide an additional 15h of office hours each week; see details in
 
 The instructors have an open door policy: If the instructors' office doors are open and no-one else is meeting with us, we are happy to answer any course-related questions. Feel free to email us for appointments; we are also available over Zoom.
 
-## Calendar
+## <a name=calendar></a>Calendar
 
 <iframe src="https://calendar.google.com/calendar/embed?src=c_2a6e790c6ae7fd610c0f21536ff9b4a7447f8d7e24cd18343d59f10af3297ed3%40group.calendar.google.com&ctz=America%2FNew_York" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 
@@ -384,7 +384,7 @@ Clement Ou [clemento],
 
 Yibo Ma [yibom]
 
-## Course Syllabus and Policies
+## <a href="course-syllabus-and-policies"></a>Course Syllabus and Policies
 
 ### Prerequisites
 
