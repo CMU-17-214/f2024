@@ -11,7 +11,7 @@ After completing this course, students will:
 - Have experience testing and analyzing your software
 - Understand principles of concurrency and distributed systems
 
-See a more detailed list of [learning goals](https://cmu-17-214.github.io/s2024/learninggoals.html) describing what we want students to know or be able to do by the end of the semester. We evaluate whether learning goals have been achieved through assignments and exams.
+See a more detailed list of [learning goals](https://cmu-17-214.github.io/f2024/learninggoals.html) describing what we want students to know or be able to do by the end of the semester. We evaluate whether learning goals have been achieved through assignments and exams.
 
 ### Coordinates
 
