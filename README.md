@@ -303,7 +303,7 @@ The schedule below reflects our current plans, but will be updated throughout th
     </tr>
     <tr>
       <td>Wed, Nov 20</td>
-      <td>TBD</td>
+      <td>Design Case Study</td>
       <td />
     </tr>
     <tr>
