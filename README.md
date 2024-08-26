@@ -45,7 +45,7 @@ The schedule below reflects our current plans, but will be updated throughout th
     <tr class="">
       <td>Mon, Aug 26</td>
       <!-- <td><a href="https://docs.google.com/presentation/d/1w53j54X7w8TOMeESE997axKLSGXoH3svhZMr9QY_YmQ/edit?usp=sharing">Introduction</a></td> -->
-      <td>Intro, IDEs, Build Systems, CI, Libraries</td>
+      <td><a href="https://docs.google.com/presentation/d/1xP58e29QkW_ExYgSFN__nDl9sDk31ADxbcffv2Hlu9k/edit?usp=sharing">Intro, IDEs, Build Systems, CI, Libraries</a></td>
       <td></td>
     </tr>
     <tr class="">
