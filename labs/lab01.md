@@ -6,7 +6,7 @@ During this course, you will become familiar with several popular and industry-r
 
 * [ ] Locally clone your 214 Git repository, fix a typo in the `README.md` file ("assigment" -> "assignment") and commit and push the change.
 * [ ] Install node.js, TypeScript, and an editor/IDE of your choice (we recommend Visual Studio Code). Show that you can compile and run the TypeScript starter code of homework 1 on your machine.
-* [ ] Install Java 21, Maven, and an IDE of your choice. Run `java --version` to verify it is version 17. Show that you can compile and run the Java starter code of homework 1 on your machine.
+* [ ] Install Java 21, Maven, and an IDE of your choice. Run `java --version` to verify it is version 21. Show that you can compile and run the Java starter code of homework 1 on your machine.
 
 ## Setting Up Your Repo
 
