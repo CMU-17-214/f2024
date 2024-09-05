@@ -1,4 +1,4 @@
-# Lab 5: Inheritance and Delegation
+# Lab 3: Inheritance and Delegation
 
 ## Concepts
 **Inheritance vs Delegation:**
@@ -58,7 +58,8 @@ Evaluate your two implementations for the given problem and answer the following
 
 ## Appendix
 Take a look at the UML diagram to see what each function should implement.
-![lab04-object-model-problem](images/lab05/Rec05_UML.jpg)
+![Rec05_UML](https://github.com/user-attachments/assets/d9ee7c69-81cf-4604-be85-baf1d72bdac4)
+
 
 
 
