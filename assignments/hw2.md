@@ -102,7 +102,7 @@ For milestone 2b, you will perform code review directly on Canvas.
 
 For milestone 2c, you will again submit a link to your final commit to Canvas. All design documents should be located in the root directory of your repository. 
 
-As usual, the link must have the format `https://github.com/CMU-17-214/<reponame>/commit/<commitid>`.
+As usual, the link must have the format `https://github.com/CMU-17-214-Students/<reponame>/commit/<commitid>`.
 
 
 
