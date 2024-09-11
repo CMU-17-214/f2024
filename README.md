@@ -98,7 +98,7 @@ The schedule below reflects our current plans, but will be updated throughout th
     </tr>
     <tr class="">
       <td>Wed, Sep 11</td>
-      <td>Inheritance and Delegation</td>
+      <td><a href="https://docs.google.com/presentation/d/1F20wG2JfdjZFmJsGzivHVm68av0mbXCTjsJZWVcwnuA/edit?usp=sharing">Inheritance and Delegation</a></td>
       <td />
     </tr>
     <tr>
