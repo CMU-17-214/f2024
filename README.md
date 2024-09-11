@@ -103,7 +103,7 @@ The schedule below reflects our current plans, but will be updated throughout th
     </tr>
     <tr>
       <td>Fri, Sep 13</td>
-      <td><span class="rec">Lab 3</span> Inheritance and Delegation</td>
+      <td><span class="rec">Lab 3</span> <a href="https://github.com/CMU-17-214/f2024/blob/main/labs/lab03.md">Inheritance and Delegation</a></td>
       <td />
     </tr>
   </tbody>
