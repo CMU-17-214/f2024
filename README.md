@@ -421,15 +421,14 @@ Each student can *resubmit* any *one* assignment milestone and it will be regrad
 
 **Late work.** We understand that normal life events, including projects and exams in other courses and technical difficulties out of your control, can interfere with your ability to complete your work on time or attend lectures and recitations. Our philosophy is that our late work policy includes built-in flexibility but that the policy will be uniformly applied to all students in all circumstances. Exceptions to this policy will be made only with explicit accommodations, almost always involving a family or medical emergency with your academic advisor or the Dean of Student Affairs requesting the exception on your behalf.
 
-<!-- We provide the following flexibility, no questions asked, no justification needed: -->
+We provide the following flexibility, no questions asked, no justification needed:
 
-<!-- - For midterms and finals, we drop the worst of the three grades. -->
-<!-- - For quizzes, we will drop up to four missed/failed solutions during the semester. -->
-<!-- - For labs, we will drop up to four missed/failed solutions during the semester. -->
-<!-- - For homework deadlines you have 5 free late days for the semester. You can exceed each deadline by up to three days (unless explicitly specified otherwise in the assignment, check carefully), for a penalty of 10% per day once you run out of free late days. Note that some homework assignments have multiple milestones with separate deadlines; there are typically around 9 homework deadlines in a semester – late days are assessed for each deadline independently. -->
-<!-- - For a single homework deadline during the semester, you can redo and resubmit your work after it was graded. It will be regraded as if it was the first submission and you can regain all lost points. Each student can only do this once. We accept resubmissions until April 26th, 11:59pm. (While we do not recommend it, you can use this as arbitrary late days for a single deadline, receiving 0 points for missing the initial deadline and then resubmitting later). -->
+- For quizzes, we will drop up to two missed/failed solutions during the semester.
+- For labs, we will drop up to two missed/failed solutions during the semester.
+- For homework deadlines you have 5 free late days for the semester. You can exceed each deadline by up to three days (unless explicitly specified otherwise in the assignment, check carefully), for a penalty of 10% per day once you run out of free late days. This policy applies to all homework deadlines *except homeworks 2a and 2b*.
+- For a single homework deadline during the semester, you can redo and resubmit your work after it was graded. It will be regraded as if it was the first submission and you can regain all lost points. Each student can only do this once. We accept resubmissions until December 6th at 11:59pm. (While we do not recommend it, you can use this as arbitrary late days for a single deadline, receiving 0 points for missing the initial deadline and then resubmitting later).
 
-<!-- Any work submitted beyond the flexibility provided by these mechanisms will receive feedback but no credit unless explicit accommodations were provided. -->
+Any work submitted beyond the flexibility provided by these mechanisms will receive feedback but no credit unless explicit accommodations were provided.
 
 ------
 
