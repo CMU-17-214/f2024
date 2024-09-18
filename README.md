@@ -120,7 +120,7 @@ The schedule below reflects our current plans, but will be updated throughout th
     </tr>
     <tr>
       <td>Fri, Sep 20</td>
-      <td><span class="rec">Lab 4</span> Design and UML</td>
+      <td><span class="rec">Lab 4</span> <a href="https://github.com/CMU-17-214/f2024/blob/main/labs/lab04.md">Design and UML</a></td>
       <td />
     </tr>
   </tbody>
