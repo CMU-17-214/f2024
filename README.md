@@ -115,7 +115,7 @@ The schedule below reflects our current plans, but will be updated throughout th
     </tr>
     <tr class="">
       <td>Wed, Sep 18</td>
-      <td>Design Critique</td>
+      <td><a href="https://docs.google.com/presentation/d/1dWW7nuhTstg2um6w5ciBzqd5f2pCv1MlTtvAAHHsbVA/edit?usp=sharing">Design Critique</a></td>
       <td />
     </tr>
     <tr>
