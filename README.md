@@ -132,7 +132,7 @@ The schedule below reflects our current plans, but will be updated throughout th
     </tr>
     <tr>
       <td>Mon, Sep 23</td>
-      <td>Refactoring and Anti-patterns</td>
+      <td><a href="https://docs.google.com/presentation/d/1odWV5ga91qDkBV_iNDpkoXxCMgbSTp8kwBZhC39q4vk/edit?usp=sharing">Refactoring and Anti-patterns</a></td>
       <td />
     </tr>
     <tr class="midterm">
