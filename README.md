@@ -154,7 +154,7 @@ The schedule below reflects our current plans, but will be updated throughout th
     </tr>
     <tr class="">
       <td>Mon, Sep 30</td>
-      <td>Specifications and Unit Testing, Exceptions</td>
+      <td><a href="https://docs.google.com/presentation/d/1swaSLTiQVXrDmNOcoGJ4oSRAnAukYGoFrNEv9LuRwX4/edit#slide=id.g3067506e592_0_1099">Specifications and Unit Testing, Exceptions</a>a></td>
       <td />
     </tr>
     <tr class="">
