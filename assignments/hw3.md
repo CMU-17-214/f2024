@@ -75,7 +75,7 @@ If you used AI tools such as ChatGPT or Copilot for any part of homework 1 or 2,
 
 ## Submitting your work
 
-Always submit all code to GitHub. Once you have pushed your final code there, submit a link to your final commit in the format `https://github.com/CMU-17-214/<reponame>/commit/<commitid>`  on Canvas (the link identifies the right commit and branch for us, in case you do not work in the main branch). You can get this link easily when you click on the last commit (above the list of files) in the GitHub web interface. 
+Always submit all code to GitHub. Once you have pushed your final code there, submit a link to your final commit in the format `https://github.com/CMU-17-214-Students/<reponame>/commit/<commitid>`  on Canvas (the link identifies the right commit and branch for us, in case you do not work in the main branch). You can get this link easily when you click on the last commit (above the list of files) in the GitHub web interface. 
 
 ## Evaluation
 
