@@ -45,7 +45,7 @@ After running the test cases, the plugin also shows the failed test cases. Also,
 
 ## Appendix 2: Test Directories For Java
 
-By convention in Maven, test files are placed in a test folder with the path `src/test/java`. You may need to create this directory if it does not exist. (This is useful for homework 2.) In some IDEs, you may need to indicate that this directory contains test files for the IDE to recognize and run the classes. In this directory create the same package structure as in `src/main/java` and place the test class in the same package as the class to be tested.
+By convention in Maven, test files are placed in a test folder with the path `src/test/java`. You may need to create this directory if it does not exist. (This is useful for homework 3.) In some IDEs, you may need to indicate that this directory contains test files for the IDE to recognize and run the classes. In this directory create the same package structure as in `src/main/java` and place the test class in the same package as the class to be tested.
 
 ## Appendix 3: Coverage Tools
 
