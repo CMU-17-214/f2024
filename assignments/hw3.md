@@ -55,7 +55,7 @@ Our reference implementation has about 40 tests.  As a hint, for `cardorganizer.
 
 ### Part 3: Structural testing (Java)
 
-For the Java implementation, write structural tests for the same files you tested in Part 2 to achieve 100% *branch* coverage. You do not need to test files that were excluded in Part 2 and branch coverage is not required for files that are not part of your testing scope. We will not evaluate your test quality for the source code with injected bugs; the goal is to maximize code coverage for the relevant files.
+For the Java implementation, write structural tests for the same files you tested in Part 2 to achieve 100% *branch* coverage. You do not need to test files that were excluded in Part 2, nor do you need to test files in the `Achievements` directory. Branch coverage is not required for files that are not part of your testing scope. We will not evaluate your test quality for the source code with injected bugs; the goal is to maximize code coverage for the relevant files.
 
 As in Part 2, follow the best practices for unit testing.
 
