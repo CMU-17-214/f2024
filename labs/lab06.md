@@ -54,4 +54,4 @@ In Java, we already set up the project to use Jacoco for collecting coverage inf
 Your jacoco report should be similar to this when viewed in the browser.
 ![lab06_jacoco_report](images/lab06/lab06_jacoco_report.png)
 
-In IntelliJ you can run tests with Coverage directly from within your IDE: Right click on test class and select **Run '$classname' with Coverage**; there should be a panel that pops up the right side of the screen showing class coverage.
+In VSCode you can run tests with Coverage directly from within your IDE: Right click on test class and select **Run '$classname' with Coverage**; there should be a panel that pops up the right side of the screen showing class coverage.
