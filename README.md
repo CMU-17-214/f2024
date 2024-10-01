@@ -164,7 +164,7 @@ The schedule below reflects our current plans, but will be updated throughout th
     </tr>
     <tr>
       <td>Fri, Oct 4</td>
-      <td><span class="rec">Lab 6</span> Unit Testing</td>
+      <td><span class="rec">Lab 6</span> <a href="https://github.com/CMU-17-214/f2024/blob/main/labs/lab06.md">Unit Testing</a></td>
       <td />
     </tr>
   </tbody>
