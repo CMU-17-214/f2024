@@ -1,4 +1,4 @@
-# Lab 3: Testing
+# Lab 6: Testing
 
 In this lab you will get familiar with different testing strategies and practice writing good unit tests in Java.
 
