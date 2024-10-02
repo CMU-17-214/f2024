@@ -402,10 +402,10 @@ Yibo Ma [yibom]
 
 ### Grading and Deadlines
 
-Evaluation will be based on the following approximate percentages:
+Evaluation will be based on the following percentages:
 
-- 50% assignments
-- 30% midterm exams and final exam
+- 50% assignments (1000 total points, each assignment has a different weighting)
+- 30% exams (7.5% for each of 2 midterm exams and 15% for the final)
 - 10% labs
 - 10% participation and quizzes
 
