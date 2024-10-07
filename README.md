@@ -171,7 +171,7 @@ The schedule below reflects our current plans, but will be updated throughout th
   <tbody>
     <tr>
       <td>Mon, Oct 7</td>
-      <td>Refactoring for Testability</td>
+      <td><a href="https://docs.google.com/presentation/d/1OkmL2tlFgiF1uDHT9Jp8JYAFyepJy4AwkJTLpAs4oI4/edit?usp=sharing">Testability</a></td>
       <td />
     </tr>
     <tr>
