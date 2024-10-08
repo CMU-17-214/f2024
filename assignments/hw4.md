@@ -69,7 +69,7 @@ We expect 4 closed issues with links to one or more commits after the design imp
 
 You should also improve the tests included in the repository. This may require modifying the tests and/or modifying the code itself.
 
-*Step 1:* For each test provided, identify which SOLID principle(s) it violates. A test may violate multiple principles, and all principles are not necessarily violated.
+*Step 1:* For each test provided, identify which SOLID principle(s) is violated by the test itself or the code that it tests. A test may violate multiple principles, and all principles are not necessarily violated.
 
 *Step 2:* Create a [GitHub issue](https://docs.github.com/en/issues/tracking-your-work-with-issues/using-issues/creating-an-issue) with the name of the test in the title (e.g., "Fix `ArticleTest.java`"). The issue text should identify which SOLID principle or principles is violated by the test, and explain *why* it violates it and why this is undesirable. Use the same GitHub issue template as above.
 
