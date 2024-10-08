@@ -105,7 +105,7 @@ Always submit all your changes to GitHub. Once you have pushed your final code a
 
 The assignment is worth 110 points. We expect to grade the assignment approximately with this rubric:
 
-- [ ] 20pt: The implementation was improved in some form. The improved implementation still compiles on GitHub Actions and provides the same functionality as the original implementation. Improvements like supporting deeper nesting of articles or supporting events are okay, but breaking the existing functionality is not.
+- [ ] 20pt: The implementation was improved in some form. The improved implementation now passes on GitHub Actions and provides the same functionality as the original implementation. Improvements like supporting deeper nesting of articles or supporting events are okay, but breaking the existing functionality is not.
 - [ ] 24pt: For each of the first 3 design problems  (code duplication, coupling, cohesion; not "SubSubSubSubSubArticles"):
   - [ ] 4pt: There is an issue on GitHub that (a) names the design problem in the title, (b) identifies an instance of the problem in the code, and (c) explains *why* this is a problem. The issue's text demonstrates an understanding of the design problem.
   - [ ] 4pt: The issue is (a) closed with (b) a description of the fix and (c) a link to the commit(s) that contain the fix so that we can find the fix in the implementation. The change indeed improves the design as described without introducing new obvious design problems.
