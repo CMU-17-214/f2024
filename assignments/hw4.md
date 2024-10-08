@@ -37,7 +37,7 @@ In this assignment, you will address one instance of each of the following desig
 
 ## Testing Problems
 
-Luckily, this code comes with tests that you can run with `mvn test`! However, the testing infrastructure is tiny, and each of the tests violates one of the SOLID principles. We have listed the principles for you below.
+Luckily, this code comes with tests that you can run with `mvn test`! However, the testing infrastructure is tiny, and each of the tests, or the code it tests, violates one or more of the SOLID principles. We have listed the principles for you below.
 
 1. **Single responsibility** -- Each test should only have a single reason to fail
 2. **Open-Closed Principle** -- Designs should be open for extension, but closed for modification. You should be able to extend what a class does without changing its source code
