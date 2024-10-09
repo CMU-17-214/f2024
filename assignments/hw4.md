@@ -51,7 +51,7 @@ We ask you to perform the following tasks:
 
 ### Improve design
 
- Your task is to incrementally and in small steps improve the design and implementation of the project to make it easier to maintain and extend in the future. You do *not* need to implement new functionality or add new tests.
+ Your task is to incrementally and in small steps improve the design and implementation of the project to make it easier to maintain and extend in the future. You do *not* need to implement new functionality or add new tests for this part of the assignment.
 
 *Step 1:* Look for a design problem in the implementation that fits one of the design problems listed above. You will probably need to spend quite some time getting an overview of the code and understanding parts of it.
 
