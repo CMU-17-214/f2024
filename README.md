@@ -214,7 +214,7 @@ The schedule below reflects our current plans, but will be updated throughout th
     </tr>
     <tr>
       <td>Wed, Oct 23</td>
-      <td><span class="assignment"><span class="hw">HW 4 due</span> Refactoring</td>
+      <td><span class="assignment"><span class="hw">HW 4 due</span> <a href="https://github.com/CMU-17-214/f2024/blob/main/assignments/hw4.md">Design and Testability Refactoring</a></td>
       <td />
     </tr>
     <tr>
