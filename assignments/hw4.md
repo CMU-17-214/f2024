@@ -73,7 +73,7 @@ You should also improve the tests included in the repository. This may require m
 
 *Step 2:* Create a [GitHub issue](https://docs.github.com/en/issues/tracking-your-work-with-issues/using-issues/creating-an-issue) with the name of the test in the title (e.g., "Fix `ArticleTest.java`"). The issue text should identify which SOLID principle or principles is violated by the test, and explain *why* it violates it and why this is undesirable. Use the same GitHub issue template as above.
 
-*Step 3:* Fix the test and/or the code problem with a meaningful commit message, ensuring the same functionality is tested and nothing more. You may need to add additional tests.
+*Step 3:* Fix the test and/or the code problem with a meaningful commit message, ensuring the same functionality is tested and nothing more. You may need to add additional tests or files.
 
 *Step 4:* Close the issue with a message that explains *how* you fixed the issue and link the issue to the commit that fixed it. A fix may address both a design problem and a testing problem, and can be linked to multiple issues.
 
