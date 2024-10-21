@@ -75,7 +75,7 @@ You should also improve the tests included in the repository. This may require m
 
 *Step 3:* Fix the test and/or the code problem with a meaningful commit message, ensuring the same functionality is tested and nothing more. You may need to add additional tests or files.
 
-*Step 4:* Close the issue with a message that explains *how* you fixed the issue and link the issue to the commit that fixed it. A fix may address both a design problem and a testing problem, and can be linked to multiple issues.
+*Step 4:* Close the issue with a message that explains *how* you fixed the issue and link in the issue to the commit that fixed it. A fix may address both a design problem and a testing problem, and can be linked to multiple issues.
 
 *Step 5:* Repeat the steps for all 4 of the included tests.
 
