@@ -209,7 +209,7 @@ The schedule below reflects our current plans, but will be updated throughout th
   <tbody>
     <tr>
       <td>Mon, Oct 21</td>
-      <td>Java Parallelism</td>
+      <td><a href="https://docs.google.com/presentation/d/1CGqIxV_jzbY6kYmchn-ZApe2vYBDxgAy2W11cNepP3k/edit?usp=sharing">Concurrency and Hazards</a></td>
       <td />
     </tr>
     <tr>
