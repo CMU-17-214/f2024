@@ -8,7 +8,7 @@
 
 ## Instructions
 
-Clone the repository from [https://github.com/CMU-17-214/f24-lab08](). Run `mvn install` to get started.
+Clone the repository from [https://github.com/CMU-17-214/f24-lab08](https://github.com/CMU-17-214/f24-lab08). Run `mvn install` to get started.
 
 In the `src` directory you will find:
 
