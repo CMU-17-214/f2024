@@ -231,7 +231,7 @@ The schedule below reflects our current plans, but will be updated throughout th
   <tbody>
     <tr>
       <td>Mon, Oct 28</td>
-      <td><a href="https://docs.google.com/presentation/d/10InV3-DYushH0OminIBqg3dt7jH8-200zo9Z8g8MypA/edit?usp=sharing">Concurrency and Asynchrony in TypeScript</a>/td>
+      <td><a href="https://docs.google.com/presentation/d/10InV3-DYushH0OminIBqg3dt7jH8-200zo9Z8g8MypA/edit?usp=sharing">Concurrency and Asynchrony in TypeScript</a></td>
       <td />
     </tr>
     <tr>
