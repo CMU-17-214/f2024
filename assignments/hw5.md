@@ -1,6 +1,6 @@
 # Homework 5: Concurrency
 
-In this assignment you will work with concurrency in a Node backend and will modify a React frontend. You will get experience with writing asynchronous code, with error handling, and with handling state in React.
+In this assignment you will work with concurrency in a Node backend. You will get experience with writing asynchronous code, and with error handling.
 
 ## Starter code
 
@@ -41,17 +41,11 @@ In the user interface in the web browser you can enter a topic and start the ana
 * When connections to Wikipedia or the Google Cloud API fail and cannot be recovered or any other computations fail, report an error message to the frontend gracefully. Your server should still be able to handle 5 concurrent jobs and up to 5 concurrent backend requests afterward.
 * The backend validates inputs received from the frontend. Reject empty and invalid inputs with HTTP error code 400.
 
-**Frontend improvements.** Improve the React frontend with some minor extensions
-
-* Allow incremental loading in the frontend, by polling regularly for updates from the backend. (This should work out of the box if the backend responds correctly)
-* Show a progress bar while data is loaded.
-* Show errors from the backend in the frontend, ideally with meaningful error messages.
-
-**What not to change:** We plan to automate some testing of your code, as such, do NOT change the `Connections` interface and the signature of the `smilingFacesBackend` function. Also do not change the protocol between the backend and frontend (i.e., do not change the API endpoint addresses and the interfaces in `jobdata.ts`). If we cannot grade your submission because you change any of these, we will assign zero points to that specific rubric item. Make all external calls through the APIs in `Connections` and do not make web calls with any other API. You may, and probably should, develop your own abstractions on top of the functions in `Connections`.
+**What to change:** This homework can be completed by only making changes to `backend.ts`, `visionapi.ts`, and `wikipediaapi.ts`. We plan to automate some testing of your code, as such, do NOT change the `Connections` interface and the signature of the `smilingFacesBackend` function. Also do not change the protocol between the backend and frontend. If we cannot grade your submission because you change any of these, we will assign zero points to that specific rubric item. Make all external calls through the APIs in `Connections` and do not make web calls with any other API. You may, and probably should, develop your own abstractions on top of the functions in `Connections`.
 
 ## Submitting your work
 
-As usual, submit all your changes to GitHub. Once you have pushed your final code, submit a link to your final commit on Canvas. A link will look like `https://github.com/CMU-17-214/<reponame>/commit/<commitid>`. You can get to this link easily when you click on the last commit (above the list of files) in the GitHub web interface.
+As usual, submit all your changes to GitHub. Once you have pushed your final code, submit a link to your final commit on Canvas. A link will look like `https://github.com/CMU-17-214-Students/<reponame>/commit/<commitid>`. You can get to this link easily when you click on the last commit (above the list of files) in the GitHub web interface.
 
 ## Evaluation
 
@@ -63,24 +57,18 @@ Concurrency:
 * [ ] [10 points] The backend code makes use of concurrency to speed up computations for analyzing images with the Google Cloud API.
 * [ ] [10 points] The backend code can process multiple jobs concurrently.
 * [ ] [10 points] The backend successfully completes computations and provides the results through the API.
-* [ ] [5 points] The backend rejects additional new jobs when processing 5 jobs concurrently with HTTP error code 503
-* [ ] [5 points] The backend correctly limits concurrency to at most 5 concurrent requests each to Wikipedia and Google.
-* [ ] [5 points] The backend can process images after images are identified from a topic, independent of other topics also to be analyzed.
+* [ ] [10 points] The backend rejects additional new jobs when processing 5 jobs concurrently with HTTP error code 503
+* [ ] [10 points] The backend correctly limits concurrency to at most 5 concurrent requests each to Wikipedia and Google.
+* [ ] [10 points] The backend can process images after images are identified from a topic, independent of other topics also to be analyzed.
 
 Error handling:
 
 * [ ] [5 points] The backend implements a retry mechanism for failed Wikipedia and Google connections, that makes two more attempts with a one second wait after each failed attempt.
 * [ ] [5 points] The backend recovers gracefully from failed Wikipedia and Google connections, reporting an error message to the client. Errors do not reduce the ability to perform work concurrently.
 
-Frontend:
-
-* [ ] [5 points] The frontend supports incremental loading of results
-* [ ] [5 points] The frontend shows a progress bar while results are loaded
-* [ ] [5 points] The frontend shows errors from the backend if computations fail
-
 Others:
 
-* [ ] [10 points] The frontend and backend code compiles on GitHub Actions.
+* [ ] [10 points] The backend code compiles on GitHub Actions.
 * [ ] [5 points] Commit messages are reasonably cohesive and have reasonable messages.
 * [ ] [5 points] The code is free of severe readability and style issues.
 
@@ -96,13 +84,11 @@ You can consider streams (`ReadableStream` of the Web Streams) for some of the w
 
 The homework changes can all be fully implementing with plain Node code. Consider using the Proxy pattern to modularize error handling. If you like, you can use external libraries, such as `p-limit` or one of the many retry libraries.
 
-The library `express` works very similar to the NanoHTTP library in Java you have seen before. You will likely not need to modify the express code itself. The React code to handle multiple jobs and incremental updates is not trivial, but also not overly complex -- you will not need to substantially modify this.
-
 The execution order of concurrent code may not always be intuitive. Consider using a debugger or using print statements in the code to follow the execution.
 
 **Testing suggestions:** Writing tests may be useful, but is not required in this assignment. There are good opportunities for testing with stubs in the backend; the backend code is written in a way to make this testing easy by avoiding global functions. We do not suggest to test frontend code.
 
-A basic testing infrastructure is already setup in directory `tests/`, but tests are commented out. The example tests use stubs, but you can also run tests against Wikipedia and Google Cloud by just using the `DefaultConnection` class. Of course you can also test parts of your implementation without starting express, for example by writing tests for the functions in `wikipediaapi.ts`.
+A basic testing infrastructure is already setup in directory `tests/`, but there is only one test implemented. The example test uses stubs, but you can also run tests against Wikipedia and Google Cloud by just using the `DefaultConnection` class. Of course you can also test parts of your implementation without starting express, for example by writing tests for the functions in `wikipediaapi.ts`.
 
 While you are not required to automate tests, we will use tests in the style of the provided examples for grading.
 
@@ -113,5 +99,3 @@ curl -X POST -H "Content-Type: application/json" -d '{"name": "David Tepper", "w
 ```
 
 With `npx tsc --watch` you can keep the TypeScript compiler running in a terminal and it will automatically compile changes whenever you safe a file. In a second terminal,  `npx nodemon .` it will restart your application (the backend) after every change, that is, whenever the compiler has produced a new version. The test runner `jest` watches changes by default.
-
-For the frontend `npx react-scripts start` provides a development environment that refreshes automatically whenever any React files are changed. This unfortunately does not connect to the backend automatically, but can be used for pure frontend development. You can test frontend code during development if you set the initial state (`const initialJobs: JobInfo[]`) to something more interesting that contains actual results, e.g., those received with the curl command above.
