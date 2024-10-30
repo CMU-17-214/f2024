@@ -241,7 +241,7 @@ The schedule below reflects our current plans, but will be updated throughout th
     </tr>
     <tr>
       <td>Wed, Oct 30</td>
-      <td>Web Apps and Concurrency</td>
+      <td><a href="https://docs.google.com/presentation/d/1akkv5cv6k_gxrPVLgNAbjUfLeU3nHAyQ0r1Ei7NIi6k/edit?usp=sharing">Concurrency and Patterns</a></td>
       <td />
     </tr>
     <tr>
