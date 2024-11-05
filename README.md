@@ -353,8 +353,8 @@ The schedule below reflects our current plans, but will be updated throughout th
   </tbody>
   <tbody>
     <tr class="midterm">
-      <td>TBD</td>
-      <td>Final exam</td>
+      <td>Thu, Dec 12</td>
+      <td>Final exam - 1:00pm-4:00pm Locaton TBD</td>
       <td />
     </tr>
   </tbody>
