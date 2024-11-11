@@ -276,7 +276,7 @@ The schedule below reflects our current plans, but will be updated throughout th
     </tr>
     <tr>
       <td>Mon, Nov 11</td>
-      <td>Libraries and Frameworks</td>
+      <td><a href="https://docs.google.com/presentation/d/1nCOAJSeqpI8vB_2-DO8hbYc9JJ4D-JpTlhRYLYMxhS0/edit?usp=sharing">Libraries and Frameworks</a></td>
       <td />
     </tr>
     <tr>
