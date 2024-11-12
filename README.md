@@ -293,13 +293,13 @@ The schedule below reflects our current plans, but will be updated throughout th
   <tbody>
     <tr>
       <td>Mon, Nov 18</td>
-      <td><span class="assignment"><span class="hw">HW 6a due</span> Santorini: User Interface</td>
+      <td>API Design II</td>
       <td />
     </tr>
     <tr>
-      <td>Mon, Nov 18</td>
-      <td>API Design II</td>
-      <td />
+      <td>Wed, Nov 20</td>
+      <td><span class="assignment"><span class="hw">HW 6a due</span> <a href="https://github.com/CMU-17-214/f2024/blob/main/assignments/hw6.md">Santorini: User Interface</a></td>
+    <td />
     </tr>
     <tr>
       <td>Wed, Nov 20</td>
