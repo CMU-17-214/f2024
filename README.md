@@ -286,7 +286,7 @@ The schedule below reflects our current plans, but will be updated throughout th
     </tr>
     <tr>
       <td>Fri, Nov 15</td>
-      <td><span class="rec">Lab 11</span> Frameworks/Extensibility</td>
+      <td><span class="rec">Lab 11</span>TicTacToe Client/Server</td>
       <td />
     </tr>
   </tbody>
