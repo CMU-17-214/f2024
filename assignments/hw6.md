@@ -85,6 +85,10 @@ Homework submissions with a link in the wrong format will not receive any points
 * [ ] 15: Code quality and style: Code meets language's conventions, is reasonably well documented, reasonably clean (e.g., avoids dead code), avoids common programming errors (e.g., == vs equals in Java)
 * [ ] 15: Reasonably cohesive commits and reasonable commit messages
 
+### Milestone 6a bonus points (5 points)
+
+* [ ] 5: The GUI is particularly artistic or attractive
+
 ### Milestone 6b god card design and justification (55 points)
 
 * [ ] 10: The implemented design allows god cards to allow additional (optional) actions (e.g., for Demeter and Hephaestus). God cards can be added without changing the implementation of the game's core classes (i.e., no hard coding with if statements).
