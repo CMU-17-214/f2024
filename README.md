@@ -286,7 +286,7 @@ The schedule below reflects our current plans, but will be updated throughout th
     </tr>
     <tr>
       <td>Fri, Nov 15</td>
-      <td><span class="rec">Lab 11</span> <a href="https://github.com/CMU-17-214/f2024/blob/main/labs/lab09.md">TicTacToe Client/Server</a></td>
+      <td><span class="rec">Lab 11</span> <a href="https://github.com/CMU-17-214/f2024/blob/main/labs/lab11.md">TicTacToe Client/Server</a></td>
       <td />
     </tr>
   </tbody>
