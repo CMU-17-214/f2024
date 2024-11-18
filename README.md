@@ -293,7 +293,7 @@ The schedule below reflects our current plans, but will be updated throughout th
   <tbody>
     <tr>
       <td>Mon, Nov 18</td>
-      <td>API Design II</td>
+      <td><a href="https://docs.google.com/presentation/d/1ZKzUCoDXB_cP98pX8-O1xjNEO4Hq4LReEVKFQNCjocs/edit?usp=sharing">API Design II</a></td>
       <td />
     </tr>
     <tr>
