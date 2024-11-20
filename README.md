@@ -303,7 +303,7 @@ The schedule below reflects our current plans, but will be updated throughout th
     </tr>
     <tr>
       <td>Wed, Nov 20</td>
-      <td>Design Case Study</td>
+      <td><a href="https://docs.google.com/presentation/d/1U66uKaww73mHIJuwY1XGTinpwRSkJNTHUKfy6P35P8w/edit?usp=sharing">Supply Chain Security</a></td>
       <td />
     </tr>
     <tr>
