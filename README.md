@@ -315,7 +315,7 @@ The schedule below reflects our current plans, but will be updated throughout th
   <tbody>
     <tr>
       <td>Mon, Nov 25</td>
-      <td>DevOps</td>
+      <td><a href="https://docs.google.com/presentation/d/1kLbBBnBW6e_-F4MxFZ1KPYXFLDxEk2Rk_OkVIwNXzTg/edit?usp=sharing">Distributed Systems: Designing for Robustness</a></td>
       <td />
     </tr>
     <tr>
