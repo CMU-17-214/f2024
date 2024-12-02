@@ -354,7 +354,7 @@ The schedule below reflects our current plans, but will be updated throughout th
   <tbody>
     <tr class="midterm">
       <td>Thu, Dec 12</td>
-      <td>Final exam - 1:00pm-4:00pm Locaton TBD</td>
+      <td>Final exam - 1:00pm-4:00pm GHC 4401</td>
       <td />
     </tr>
   </tbody>
