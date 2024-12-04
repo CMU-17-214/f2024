@@ -342,7 +342,7 @@ The schedule below reflects our current plans, but will be updated throughout th
     </tr>
     <tr>
       <td>Wed, Dec 4</td>
-      <td>Towards Software Engineering</td>
+      <td><a href="https://docs.google.com/presentation/d/1T7Az5e-jefJlA4ryxkXBg_hiurwfddrOYI1Nl2XVmoo/edit?usp=sharing">The Last One: Looking Back & Looking Forward</a></td>
       <td />
     </tr>
     <tr>
