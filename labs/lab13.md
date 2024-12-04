@@ -17,10 +17,10 @@ In this lab, we will focus on the first three.
 For each design pattern, you are expected to provide information in five sections:
 
 - **Description**: Define the key characteristics that distinguish the pattern from others.
-- **Example**: Reflect on your past programming experiences where this pattern could have improved your solution. If you can't think of a personal example, describe a scenario where using this pattern would have made the solution worse.
 - **Pros**: Why should you use this pattern? What specific problems does it solve and what design principles does it support?
 - **Cons**: Why might you want to avoid this pattern? What design challenges or complications could it introduce?
-- **UML Diagram**: Draw an excerpt of a UML object model illustrating how you could use the design pattern to implement God Cards in Santorini. The model should show concrete classes that are plausible in the game, but an excerpt with only a small subset of methods or fields is fine, as long as it demonstrates the pattern.
+- **UML Diagram**: Draw a UML object model for the pattern.
+- **Example**: Reflect on your past programming experiences where this pattern could have improved your solution. If you can't think of a personal example, describe a scenario where using this pattern would have made the solution worse.
 
 ## Instructions
 
